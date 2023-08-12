@@ -1,0 +1,75 @@
+body{
+    background-image: linear-gradient(#646FD4,#9BA3EB,#DBDFFD);
+    font-family: cursive;
+}
+
+a{
+    text-decoration: none;
+    color: purple;
+    font-size: 1em;
+}
+
+.tea{
+    background-color: aqua;
+
+}
+
+
+
+.imgright{
+    position: relative;
+    top: -60px;
+    left: -40px;
+
+}
+
+.imgright2{
+    position: relative;
+    top: -50px;
+    left: -600px;
+
+}
+
+.imgright3{
+    position: relative;
+    left: -800px;
+
+}
+
+.four{
+    position: relative;
+    top: -70px;
+    left: -1000px;
+
+}
+
+.six{
+    position: relative;
+    top: 30px;
+}
+
+.seven{
+    position: relative;
+    top: 40px;
+    left: -1000px;
+
+}
+
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #FF06B7;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+a:hover{
+    transition: .5s;
+    font-size: 125%;
+}
+
+.imgborder{
+    border-radius: 2rem;
+}
